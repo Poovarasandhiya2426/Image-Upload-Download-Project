@@ -85,4 +85,5 @@ URL: http://localhost:1998/api/images/view/{id}
   - Can be easily extended to support multiple images, delete image, etc.
 
 👨‍💻 Author
-  Developed by Poovarasan 
+
+  Poovarasan M
